@@ -84,5 +84,3 @@ The dataset includes details such as:
 - Feature Engineering
 
 ---
-
-⭐ If you found this project useful, feel free to star the repository.
